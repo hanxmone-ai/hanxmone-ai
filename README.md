@@ -23,6 +23,7 @@ from zero to App Store / Google Play and into real stores and schools.
 | [escpos-kit](https://github.com/hanxmone-ai/escpos-kit) | Pure Dart ESC/POS library for Flutter and servers: Chinese (GBK), aligned item/price rows, barcodes, QR codes, images, network and Bluetooth printing |
 | [flutter-ble-kit](https://github.com/hanxmone-ai/flutter-ble-kit) | Flutter Bluetooth LE app and toolkit: scanning, GATT browser, live heart rate, auto-reconnect and receipt printing over BLE, with a demo mode that runs without hardware |
 | [streaming-chat-demo](https://github.com/hanxmone-ai/streaming-chat-demo) ([live demo](https://hanxmone-ai.github.io/streaming-chat-demo/)) | Streaming LLM chat without frameworks: a Node server relays any OpenAI-compatible API as server-sent events, cancels the model call on Stop, and a 15 KB TypeScript client renders Markdown as it arrives |
+| [voice-assistant-demo](https://github.com/hanxmone-ai/voice-assistant-demo) | Hands-free voice assistant in the browser: voice activity detection, answers spoken sentence by sentence while the model streams, and barge-in that stops the model and the audio the moment you talk |
 | llm-router-lite *(coming soon)* | Self-hosted LLM gateway: one OpenAI-style API, routing across providers, retries, fallback and token accounting |
 
 #### Selected work (closed source, described only)

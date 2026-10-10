@@ -22,7 +22,7 @@ from zero to App Store / Google Play and into real stores and schools.
 | [sunmi-webview-bridge](https://github.com/hanxmone-ai/sunmi-webview-bridge) | Android app that lets any web page use a Sunmi terminal's scanner and printer through a documented JavaScript API |
 | [escpos-kit](https://github.com/hanxmone-ai/escpos-kit) | Pure Dart ESC/POS library for Flutter and servers: Chinese (GBK), aligned item/price rows, barcodes, QR codes, images, network and Bluetooth printing |
 | [flutter-ble-kit](https://github.com/hanxmone-ai/flutter-ble-kit) | Flutter Bluetooth LE app and toolkit: scanning, GATT browser, live heart rate, auto-reconnect and receipt printing over BLE, with a demo mode that runs without hardware |
-| [streaming-chat-demo](https://github.com/hanxmone-ai/streaming-chat-demo) | Streaming LLM chat without frameworks: a Node server relays any OpenAI-compatible API as server-sent events, cancels the model call on Stop, and a 15 KB TypeScript client renders Markdown as it arrives |
+| [streaming-chat-demo](https://github.com/hanxmone-ai/streaming-chat-demo) ([live demo](https://hanxmone-ai.github.io/streaming-chat-demo/)) | Streaming LLM chat without frameworks: a Node server relays any OpenAI-compatible API as server-sent events, cancels the model call on Stop, and a 15 KB TypeScript client renders Markdown as it arrives |
 | llm-router-lite *(coming soon)* | Self-hosted LLM gateway: one OpenAI-style API, routing across providers, retries, fallback and token accounting |
 
 #### Selected work (closed source, described only)

@@ -2,6 +2,8 @@
 
 **AI full-stack engineer · 12 years shipping products · Xiamen, China · open to remote work**
 
+🌐 Portfolio: [hanxmone-ai.github.io](https://hanxmone-ai.github.io/) · [中文](https://hanxmone-ai.github.io/zh/)
+
 I build products end to end: LLM backends, Flutter and Android apps, and the hardware they
 talk to (POS printers, barcode scanners, NFC readers, BLE devices). I have taken several of them
 from zero to App Store / Google Play and into real stores and schools.
@@ -18,6 +20,7 @@ from zero to App Store / Google Play and into real stores and schools.
 | Project | What it is |
 |---|---|
 | [sunmi-webview-bridge](https://github.com/hanxmone-ai/sunmi-webview-bridge) | Android app that lets any web page use a Sunmi terminal's scanner and printer through a documented JavaScript API |
+| [escpos-kit](https://github.com/hanxmone-ai/escpos-kit) | Pure Dart ESC/POS library for Flutter and servers: Chinese (GBK), aligned item/price rows, barcodes, QR codes, images, network and Bluetooth printing |
 | llm-router-lite *(coming soon)* | Self-hosted LLM gateway: one OpenAI-style API, routing across providers, retries, fallback and token accounting |
 
 #### Selected work (closed source, described only)
